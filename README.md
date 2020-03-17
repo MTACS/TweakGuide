@@ -12,6 +12,6 @@ When you're ready to start, click the link to Chapter 1 below.
 
 [Chapter 1: Installing Theos](https://github.com/MTACS/TweakGuide/blob/master/chapters/1.md)
 
-## Index
+## Chapter Index
 
 [Chapter 1](https://github.com/MTACS/TweakGuide/blob/master/chapters/1.md)
