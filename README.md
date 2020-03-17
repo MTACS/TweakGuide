@@ -17,3 +17,7 @@ This guide was created to help with the frequent Reddit posts asking how to get 
 [Chapter 3: Editing your tweak](https://github.com/MTACS/TweakGuide/blob/master/chapters/3.md)
 
 [Chapter 4: Control files](https://github.com/MTACS/TweakGuide/blob/master/chapters/4.md)
+
+[Chapter 5: Logos](https://github.com/MTACS/TweakGuide/blob/master/chapters/6.md)
+
+[Chapter 6: Writing code](https://github.com/MTACS/TweakGuide/blob/master/chapters/6.md)
