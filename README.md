@@ -8,8 +8,42 @@ This guide was created to help with the frequent Reddit posts asking how to get 
 * A Theos installation
 * A jailbroken iOS device
 
+## Useful resources
+
+[iPhone Development Wiki](https://iphonedevwiki.net/index.php/Main_Page)
+
+[Limneos Headers](https://developer.limneos.net)
+
+[My open source tweaks](https://github.com/MTACS)
+
+[Other open source tweaks](https://iphonedevwiki.net/index.php/Open_Source_Projects)
+
 ## Chapter Index
 
 [Chapter 1: Installing Theos & Configuring your environment](https://github.com/MTACS/TweakGuide/blob/master/chapters/1.md)
 
 [Chapter 2: Creating your first tweak](https://github.com/MTACS/TweakGuide/blob/master/chapters/2.md)
+
+[Chapter 3: Editing your tweak](https://github.com/MTACS/TweakGuide/blob/master/chapters/3.md)
+
+[Chapter 4: Control files](https://github.com/MTACS/TweakGuide/blob/master/chapters/4.md)
+
+[Chapter 5: Logos](https://github.com/MTACS/TweakGuide/blob/master/chapters/6.md)
+
+[Chapter 6: Writing code](https://github.com/MTACS/TweakGuide/blob/master/chapters/6.md)
+
+## Contributing
+
+If you feel something should be changed or added to this guide, create a pull request. 
+
+## Contact & Support
+
+I can be reached at the following, and am always open to answering any questions about tweak development or jailbreak in general.
+
+[Twitter](https://twitter.com/mtac8)
+
+[GitHub](https://github.com/MTACS)
+
+[Reddit](https://reddit.com/u/-MTAC-)
+
+This guide took a long time to plan and create. If you want to support otherwise, here is my [PayPal](https://paypal.me/mtac) or by grabbing a copy of my tweak [Lynx](https://repo.twickd.com/package/com.twickd.mtac.lynx) from [Twickd Repo](https://repo.twickd.com)
