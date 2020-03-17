@@ -8,3 +8,4 @@ This was created to help with the frequent Reddit posts asking how to get into d
 * A Theos installation
 * A jailbroken iOS device
 
+[Chapter 1: Installing Theos]
