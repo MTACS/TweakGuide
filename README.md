@@ -12,4 +12,4 @@ This was created to help with the frequent Reddit posts asking how to get into d
 
 ## Chapter Index
 
-[Chapter 1](https://github.com/MTACS/TweakGuide/blob/master/chapters/1.md)
+[Chapter 1: Installing Theos](https://github.com/MTACS/TweakGuide/blob/master/chapters/1.md)
