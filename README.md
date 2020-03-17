@@ -14,4 +14,6 @@ This guide was created to help with the frequent Reddit posts asking how to get 
 
 [Chapter 2: Creating your first tweak](https://github.com/MTACS/TweakGuide/blob/master/chapters/2.md)
 
-[Chapter 3: ](https://github.com/MTACS/TweakGuide/blob/master/chapters/3.md)
+[Chapter 3: Editing your tweak](https://github.com/MTACS/TweakGuide/blob/master/chapters/3.md)
+
+[Chapter 4: Control files](https://github.com/MTACS/TweakGuide/blob/master/chapters/4.md)
