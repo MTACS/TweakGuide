@@ -10,4 +10,4 @@ This guide was created to help with the frequent Reddit posts asking how to get 
 
 ## Chapter Index
 
-[Chapter 1: Installing Theos](https://github.com/MTACS/TweakGuide/blob/master/chapters/1.md)
+[Chapter 1: Installing Theos & Configuring Your Environment](https://github.com/MTACS/TweakGuide/blob/master/chapters/1.md)
