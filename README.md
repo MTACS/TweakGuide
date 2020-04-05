@@ -38,6 +38,8 @@ If you feel something should be changed or added to this guide, create a pull re
 
 ## Contact & Support
 
+This project wouldn't be possible without the help from [@2Klasic](https://twitter.com/2Klasic) who kickstarted my tweak development by setting up my first repo, definitely give him a follow.
+
 I can be reached at the following, and am always open to answering any questions about tweak development or jailbreak in general.
 
 [Twitter](https://twitter.com/mtac8)
