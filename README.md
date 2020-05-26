@@ -32,6 +32,8 @@ This guide was created to help with the frequent Reddit posts asking how to get 
 
 [Chapter 6: Writing code](https://github.com/MTACS/TweakGuide/blob/master/chapters/6.md)
 
+[Chapter 7: Using MSHookIvar](https://github.com/MTACS/TweakGuide/blob/master/chapters/7.md)
+
 ## Contributing
 
 If you feel something should be changed or added to this guide, create a pull request. 
