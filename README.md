@@ -34,6 +34,10 @@ This guide was created to help with the frequent Reddit posts asking how to get 
 
 [Chapter 7: Using MSHookIvar](https://github.com/MTACS/TweakGuide/blob/master/chapters/7.md)
 
+[Chapter 8: Building & Packaging](https://github.com/MTACS/TweakGuide/blob/master/chapters/8.md)
+
+[Chapter 9: Preference Bundles](https://github.com/MTACS/TweakGuide/blob/master/chapters/9.md)
+
 ## Contributing
 
 If you feel something should be changed or added to this guide, create a pull request. 
