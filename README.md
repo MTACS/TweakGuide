@@ -38,6 +38,8 @@ This guide was created to help with the frequent Reddit posts asking how to get 
 
 [Chapter 9: Preference Bundles](https://github.com/MTACS/TweakGuide/blob/master/chapters/9.md)
 
+[Chapter 10: Linking Preferences](https://github.com/MTACS/TweakGuide/blob/master/chapters/10.md)
+
 ## Contributing
 
 If you feel something should be changed or added to this guide, create a pull request. 
